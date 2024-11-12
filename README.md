@@ -6,7 +6,7 @@ There are two profiles in this spring boot project :
 
 ## 2. LDAP 
 
-* ldap : Implemented with the LDAP Support for spring security. You also need an LDAP server. Spring Boot provides auto-configuration for an embedded server written in pure Java, which is being used for this guide. For more information refer : https://spring.io/guides/gs/authenticating-ldap
+* ldap : Implemented with the LDAP Support for spring security. You also need an LDAP server. Spring Boot provides auto-configuration for an embedded LDAP server written in pure Java, which is being used for this guide. For more information refer : https://spring.io/guides/gs/authenticating-ldap
 
 # Configuring Spring Security
 
